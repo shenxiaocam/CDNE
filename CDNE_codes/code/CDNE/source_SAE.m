@@ -1,8 +1,7 @@
 % Created on OCT 27 18:16:14 2018
 % author: SHEN xiao
 % Please cite our paper:
-% Shen, X.; Dai, Q.; Mao, S.; Chung, F.-l.; and Choi, K.-S. 2020. Network Together: Node Classification via Cross network Deep Network Embedding. IEEE Transactions on Neural Networks and Learning Systems.
-
+% X. Shen, Q. Dai, S. Mao, F. Chung and K. Choi, "Network Together: Node Classification via Cross-Network Deep Network Embedding," in IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 4, 2020, doi: 10.1109/TNNLS.2020.2995483.
 function  [rep_S,rep_S_avg, Q_S,sae_S]= source_SAE(sae_S,nnsize,network_S,PPMI_S,Y_S,beta,alfa_S,phi_S,O_S)
 
 sae_S = saetrain_s(sae_S, network_S, beta,  PPMI_S, alfa_S,phi_S,O_S);  
