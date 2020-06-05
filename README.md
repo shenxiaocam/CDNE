@@ -4,7 +4,7 @@ Network Together: Node Classification via Cross-Network Deep Network Embedding h
 
 “test_CDNE_Blog.m” is an Example Case for cross-network node classification between Blog1 and Blog2 networks 
 
-“test_CDNE_DBLP.m” is an Example Case for cross-network node classification among the citation networks
+“test_CDNE_DBLP.m” is an Example Case for cross-network node classification between the citation networks
 
 "source_SAE.m" and "target_SAE.m" are the SAE_s for source network and the SAE_t for target network, please see details in our paper.
 
