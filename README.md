@@ -3,6 +3,7 @@ Codes and Datasets for our paper:
 
 Network Together: Node Classification via Cross-Network Deep Network Embedding https://ieeexplore.ieee.org/document/9108549
 
+
 “test_CDNE_Blog.m” is an Example Case for cross-network node classification between Blog1 and Blog2 networks 
 
 “test_CDNE_DBLP.m” is an Example Case for cross-network node classification between the citation networks
