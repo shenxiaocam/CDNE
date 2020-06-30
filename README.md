@@ -6,7 +6,7 @@ Codes and Datasets for our paper:
 
 **“test_CDNE_Blog.m”** is an Example Case for cross-network node classification between Blog1 and Blog2 networks 
 
-**“test_CDNE_DBLP.m”** is an Example Case for cross-network node classification between the two citation networks
+**“test_CDNE_DBLP.m”** is an Example Case for cross-network node classification between two citation networks
 
 **"source_SAE.m"** and **"target_SAE.m"** are the **SAE_s for source network** and the **SAE_t for target network**.
 
