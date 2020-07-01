@@ -5,17 +5,17 @@ X. Shen, Q. Dai, S. Mao, F. Chung and K. Choi, "Network Together: Node Classific
 
 "source_SAE.m"
 ====
-the function of **SAE_s** which learns low-dimensional node vector representations for source network.
+Function of **SAE_s** which learns low-dimensional node vector representations for source network.
 
 "target_SAE.m"
 ====
-the function of **SAE_t** which learns low-dimensional node vector representations for target network.
+Function of **SAE_t** which learns low-dimensional node vector representations for target network.
 
 Test examples
 ====
-**“test_CDNE_Blog.m”** is an Example Case for cross-network node classification from Blog1 to Blog2 networks 
+**“test_CDNE_Blog.m”** is an Example Case for cross-network node classification from Blog1 to Blog2
 
-**“test_CDNE_DBLP.m”** is an Example Case for cross-network node classification from one citation network to the other citation network
+**“test_CDNE_DBLP.m”** is an Example Case for cross-network node classification from citationv1 to dblpv7
 
 
 
