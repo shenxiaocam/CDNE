@@ -5,11 +5,11 @@ X. Shen, Q. Dai, S. Mao, F. Chung and K. Choi, "Network Together: Node Classific
 
 "source_SAE.m"
 ====
-Function of **SAE_s** which learns low-dimensional node vector representations for source network.
+Function of **SAE_s** which learns low-dimensional node vector representations for source network
 
 "target_SAE.m"
 ====
-Function of **SAE_t** which learns low-dimensional node vector representations for target network.
+Function of **SAE_t** which learns low-dimensional node vector representations for target network
 
 Test examples
 ====
