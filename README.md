@@ -5,17 +5,14 @@ This repository contains the author's implementation in Matlab for the paper "Ne
 
 Codes: 
 ====
-"source_SAE.m"
-===
-Function of **SAE_s** which learns low-dimensional node vector representations for source network
+**"source_SAE.m"** is the function of **SAE_s** which learns low-dimensional node vector representations for source network
 
-"target_SAE.m"
-===
-Function of **SAE_t** which learns low-dimensional node vector representations for target network
 
-Test examples
-===
+**"target_SAE.m"** is the function of **SAE_t** which learns low-dimensional node vector representations for target network
+
+
 **“test_CDNE_Blog.m”** is an Example Case for cross-network node classification from Blog1 to Blog2
+
 
 **“test_CDNE_DBLP.m”** is an Example Case for cross-network node classification from citationv1 to dblpv7
 
