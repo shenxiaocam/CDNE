@@ -18,7 +18,7 @@ Codes:
 
 Plese cite our paper as:
 ====
-X. Shen, Q. Dai, S. Mao, F. Chung and K. Choi, "Network Together: Node Classification via Cross-Network Deep Network Embedding," in IEEE Transactions on Neural Networks and Learning Systems, early access, Jun. 4, 2020, doi: 10.1109/TNNLS.2020.2995483.
+Xiao Shen, Quanyu Dai, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, "Network Together: Node Classification via Cross network Deep Network Embedding," IEEE Trans. Neural. Netw. Learn. Syst., vol. 32, no. 5, pp. 1935-1948, 2021.
 
 
 
